@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dimenButtonWidth">100dp</dimen>
+    <dimen name="dimenButtonHeight">45dp</dimen>
+    <dimen name="dimenTextSize">22sp</dimen>
+    <!--  对话框参数  -->
+    <dimen name="dimen_dialog_width">300dp</dimen>
+    <dimen name="dimen_dialog_height">180dp</dimen>
+    <dimen name="dimen_progress_dialog_height">150dp</dimen>
+</resources>
